@@ -24,11 +24,22 @@
         tools:layout_editor_absoluteY="473dp" />
 
     <TextView
-        android:id="@+id/textView2"
+<<<<<<
+
+    <Button
+        android:id="@+id/button2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="TextView"
-        tools:layout_editor_absoluteX="176dp"
-        tools:layout_editor_absoluteY="211dp" />
+        android:text="iniciar"
+        tools:layout_editor_absoluteX="156dp"
+        tools:layout_editor_absoluteY="136dp" />
+    =======
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="cley chingon"
+        tools:layout_editor_absoluteX="173dp"
+        tools:layout_editor_absoluteY="175dp" />
+>>>>>>> Stashed changes
 
 </androidx.constraintlayout.widget.ConstraintLayout>
